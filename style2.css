@@ -1,0 +1,11 @@
+@keyframes Khadija{
+    0%{background-color: blue;}
+    25%{background-color: aqua;}
+    50%{background-color: brown;}
+    75%{background-color: beige;}
+    100%{background-color: gray;}
+}
+body{
+    animation-name: Khadija;
+    animation-duration: 10s;
+}
