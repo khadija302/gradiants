@@ -1,0 +1,8 @@
+#one{
+    background: linear-gradient( purple, pink, orange, yellow, red);
+    height: 400px;
+}
+#two{
+    background: radial-gradient( yellow, green, brown, black);
+    height: 500px;
+}
